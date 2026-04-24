@@ -57,5 +57,4 @@ from orders
 group by totalHRS
 order by total desc limit 5;
 
--- Join relevant tables to find the category-wise distribution of pizzas.
 
